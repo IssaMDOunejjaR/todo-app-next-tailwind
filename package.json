@@ -6,7 +6,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.29.0",
+    "eslint-config-prettier": "^8.5.0",
     "next": "latest",
+    "next-themes": "^0.2.0",
+    "prettier": "^2.7.1",
     "react": "18.1.0",
     "react-dom": "18.1.0"
   },
